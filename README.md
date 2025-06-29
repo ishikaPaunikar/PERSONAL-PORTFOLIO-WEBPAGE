@@ -1,4 +1,4 @@
-PORTFOLIO - WEBSITE
+PERSONAL PORTFOLIO WEBPAGE
 
 COMPANY : CODTECH IT SOLUTIONS
 
@@ -12,7 +12,7 @@ DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTHOSH KUMAR
 
-#DESCRIPTION ABOUT PORTFOLIO-WEBSITE
+#DESCRIPTION ABOUT PERSONAL PORTFOLIO WEBPAGE
 
 The personal portfolio website is a responsive, single-page web application created using only HTML and CSS. It showcases the academic background, skills, and project work of Ishika Paunikar, a B.Tech Computer Science Engineering student at Symbiosis Institute of Technology. Designed with simplicity and elegance in mind, the website provides a clean and modern interface to present professional information. The structure is neatly organized with clear sections such as About, Projects, and Contact, making it easy for viewers to navigate and explore the content.
 
