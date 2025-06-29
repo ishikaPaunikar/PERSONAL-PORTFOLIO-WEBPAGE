@@ -22,6 +22,11 @@ The Contact section includes clickable links for email and LinkedIn, making it e
 
 Overall, the portfolio website reflects both technical and design skills. It is lightweight, fast-loading, and accessible on any modern browser or device. It can be easily deployed using GitHub Pages, making it a practical tool for building a personal brand and professional presence online. This project serves as an effective showcase of frontend development fundamentals and is ideal for resumes, job applications, or academic submissions. It can also be expanded in the future by adding JavaScript interactivity, animations, contact forms, or integration with backend services.
 
+![Image](https://github.com/user-attachments/assets/87051ec7-baba-4261-bdaa-c8745c86188c)
+
+![Image](https://github.com/user-attachments/assets/899d6d30-ad87-479e-93b1-d83ed8671cc4)
+
+
 
 
 
