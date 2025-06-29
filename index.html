@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ishika Paunikar - Portfolio</title>
+  <style>
+    body {
+      background-color: beige;
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      color: #333;
+    }
+
+    header {
+      background-color: #fff;
+      padding: 60px 20px;
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    header h1 {
+      font-size: 2.8rem;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      color: #555;
+    }
+
+    nav {
+      background-color: #fff;
+      padding: 15px 20px;
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #333;
+      font-weight: 500;
+    }
+
+    nav a:hover {
+      color: #007BFF;
+    }
+
+    section {
+      max-width: 1000px;
+      margin: auto;
+      padding: 60px 20px;
+    }
+
+    .about, .projects, .contact {
+      margin-bottom: 60px;
+    }
+
+    .projects-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px;
+      background-color: #f2f2f2;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Ishika Paunikar</h1>
+    <p>B.Tech CSE Student | Symbiosis Institute of Technology</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section class="about" id="about">
+    <h2>About Me</h2>
+    <p>
+      Hello! I’m Ishika Paunikar, a passionate Computer Science Engineering student at Symbiosis Institute of Technology. I enjoy learning about new technologies, building cool web projects, and exploring the world of software development.
+      I'm currently improving my frontend and backend development skills. I’m also interested in UI/UX design and love creating clean, intuitive user interfaces.
+    </p>
+  </section>
+
+  <section class="projects" id="projects">
+    <h2>Projects</h2>
+    <div class="projects-grid">
+      <div class="card">
+        <h3>Portfolio Website</h3>
+        <p>A responsive portfolio site built with HTML and CSS to showcase skills and achievements.</p>
+      </div>
+      <div class="card">
+        <h3>Student Management System</h3>
+        <p>A basic CRUD app using Python and SQLite to manage student data efficiently.</p>
+      </div>
+      <div class="card">
+        <h3>Quiz App</h3>
+        <p>JavaScript-based quiz application with scoring and real-time feedback.</p>
+      </div>
+      <div class="card">
+        <h3>NGO Ranking Dashboard</h3>
+        <p>Web-based dashboard that ranks NGOs using real-time data and charts.</p>
+      </div>
+      <div class="card">
+        <h3>Weather App</h3>
+        <p>A simple weather app that fetches data using OpenWeatherMap API and displays current conditions.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="contact" id="contact">
+    <h2>Contact Me</h2>
+   
+    <p>Email: <a href="mailto:ishika@example.com">ishika@example.com</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/ishikapaunikar" target="_blank">linkedin.com/in/ishikapaunikar</a></p>
+  </section>
+
+  <footer>
+    &copy; 2025 Ishika Paunikar. All rights reserved.
+  </footer>
+</body>
+</html>
